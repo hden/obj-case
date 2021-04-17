@@ -1,4 +1,4 @@
-# obj-case
+# obj-case [![CircleCI](https://circleci.com/gh/hden/obj-case.svg?style=svg)](https://circleci.com/gh/hden/obj-case)
 
 Work with objects of different cased keys.
 
