@@ -19,7 +19,7 @@ Inspired by [segmentio/obj-case](https://github.com/segmentio/obj-case)
 ### get-in
 
 ```clojure
-(require '[obj-case :as obj])
+(require '[obj-case.core :as obj])
 
 (def input
   {:my {"super_cool" {"climbingShoes" "x"}}})
